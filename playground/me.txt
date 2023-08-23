@@ -1,0 +1,5 @@
+{{#user}}
+Name: Nimai Chandra Roy
+Skills: HTML, CSS, JS, Next.js
+Email: nimairoy718@gmail.com
+{{/user}}
